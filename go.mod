@@ -1,3 +1,3 @@
-module github.com/ppreeper/miod10luhn
+module github.com/ppreeper/mod10luhn
 
 go 1.15
